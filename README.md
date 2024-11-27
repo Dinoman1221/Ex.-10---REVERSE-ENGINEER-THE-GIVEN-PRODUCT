@@ -34,9 +34,11 @@
 
 ### Output:
 
+### Name: Ashish S
+### Register Number: 24900566
 
-### Name:
-### Register Number:
+https://github.com/user-attachments/assets/1480b878-1435-4d55-bd91-7acddf05900f
+
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
