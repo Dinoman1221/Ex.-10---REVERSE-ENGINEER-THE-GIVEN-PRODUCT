@@ -37,7 +37,8 @@
 ### Name: Ashish S
 ### Register Number: 24900566
 
-https://github.com/user-attachments/assets/1480b878-1435-4d55-bd91-7acddf05900f
+![image](https://github.com/user-attachments/assets/a80195a3-ceee-48f6-82b0-4346e4eb5383)
+
 
 
 ## RESULT:
